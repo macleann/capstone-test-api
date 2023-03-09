@@ -1,0 +1,44 @@
+{
+  "shows": [
+    {
+      "bandId": 2,
+      "venue": "Cobra",
+      "date": "2023-03-23",
+      "time": "19:45",
+      "price": 22.22,
+      "ticketLink": "www.link.com",
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678397901/w9yof2pdpxj5f6qqpudx.png",
+        "alt": "An image of Dead Mall Dukes",
+        "publicId": "w9yof2pdpxj5f6qqpudx"
+      },
+      "id": 1
+    },
+    {
+      "bandId": 1,
+      "venue": "Grand Ole Opry",
+      "date": "2023-03-21",
+      "time": "21:00",
+      "price": 45.99,
+      "ticketLink": "www.stonks.com",
+      "image": {
+        "url": "https://res.cloudinary.com/dnq0umskc/image/upload/v1678399240/usftqxdhizydhdqh9pne.png",
+        "alt": "An image of LYMI Americana 9-17 v6",
+        "publicId": "usftqxdhizydhdqh9pne"
+      },
+      "id": 2
+    }
+  ],
+  "bands": [
+    {
+      "id": 1,
+      "name": "Crumbsnatchers",
+      "bio": "This is the band's bio"
+    },
+    {
+      "id": 2,
+      "name": "Ryan Sobb and the Dead Mall",
+      "bio": "This is the band's bio"
+    }
+  ]
+}
